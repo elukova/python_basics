@@ -9,6 +9,6 @@ sm_list = [1, 9.99, True, None, "Привет!",
            {1, 6, 7.7, "Salut!", True},
            {}, {"key1":"value1", "key2":"value2"}]
 for elmnt in sm_list:
-    print(type(elmnt))
+    print(type(elmnt), end="")
 
 
