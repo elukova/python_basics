@@ -1,0 +1,4 @@
+firm_1 OOO   1000   5000
+firm_2 OOO 5000 1000
+firm_3 AO 10000 5000
+firm_4 PAO 12000 10000
